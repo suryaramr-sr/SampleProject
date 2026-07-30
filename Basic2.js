@@ -1,0 +1,16 @@
+let age=25;
+console.log(age);
+age=30;
+console.log("After reassign"+age);
+//let age=35;
+//console.log(age);
+var name="Anu";
+console.log(name);
+name="Arun";
+console.log("After reassigning"+name);
+var name="Manu";
+console.log("After redeclare"+name);
+const country="India";
+//country="USA";
+let country="UAE";
+console.log(country);
